@@ -1,0 +1,7 @@
+<meta>
+	<script src="server.lua" type="server"/>
+	<script src="shared.lua" type="shared"/>
+	<script src="client.lua" type="client"/>
+	<script src="test.lua" type="client"/>
+	<file src="n2gHv98.png"/>
+</meta>

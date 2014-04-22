@@ -1,0 +1,7 @@
+<meta>
+	<script src="gui.lua" type="client"/>
+	<script src="client.lua" type="client"/>
+	<script src="server.lua"/>
+	<export function="appendText" type="client"/>
+	<export function="addMessage" type="server"/>
+</meta>
