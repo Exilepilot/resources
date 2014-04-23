@@ -26,7 +26,7 @@ gui = {
     label = {},
     memo = {}
 }
-gui.index = gui
+
 
 gui.window[1] = guiCreateWindow(0.31, 0.19, 0.39, 0.62, "Text to morsecode", true)
 guiWindowSetMovable(gui.window[1], false)

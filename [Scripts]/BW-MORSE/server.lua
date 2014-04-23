@@ -18,7 +18,7 @@ BW-MORSE - Badwolf's own script to convert chat into international morsecode.
 --]]
 
 server = {}
-server.index = server
+
 
 
 

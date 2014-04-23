@@ -59,7 +59,6 @@ morsecode = {
 }
 
 shared = {}
-shared.index = shared 
 --[[
 	Translate string into international morsecode.
 	Unknown characters are given even spacing.
