@@ -16,7 +16,7 @@ BW-MORSE - Badwolf's own script to convert chat into international morsecode.
   0. You just DO WHAT THE FUCK YOU WANT TO.
 
 --]]
-testtesttest = {}
+
 morsecode = {
 	["A"] = {" . - "      },
 	["B"] = {" - . . . "  },
