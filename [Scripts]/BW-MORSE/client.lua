@@ -160,4 +160,3 @@ addEventHandler("onClientGUIClick", gui.button[2],
 			end,500,1)
 	end,false)
 
-local lel = call(getResourceFromName("warning"), "createError", "FUCK")
